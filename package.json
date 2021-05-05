@@ -1,0 +1,23 @@
+{
+  "name": "ram-usage",
+  "version": "1.0.0",
+  "description": "prints out ram memory usage in real time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpaulini/ram-usage.git"
+  },
+  "keywords": [
+    "ram",
+    "usage"
+  ],
+  "author": "gpaulini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpaulini/ram-usage/issues"
+  },
+  "homepage": "https://github.com/gpaulini/ram-usage#readme"
+}
